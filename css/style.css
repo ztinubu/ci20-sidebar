@@ -1,0 +1,6 @@
+ body {
+   display: flex;
+   flex-direction: row;
+ }
+ .sidebar { flex: 0 0 150px; }
+ .content { flex: 1; }
